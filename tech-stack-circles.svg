@@ -1,0 +1,93 @@
+<svg width="900" height="460" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #24292f; }
+      .initial { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; }
+    </style>
+  </defs>
+
+  <!-- Row 1 -->
+  <g>
+    <circle cx="90" cy="70" r="35" fill="#F7DF1E"/>
+    <text x="90" y="78" text-anchor="middle" class="initial" font-size="20" fill="#000">JS</text>
+    <text x="90" y="125" text-anchor="middle" class="label">JavaScript</text>
+
+    <circle cx="215" cy="70" r="35" fill="#3178C6"/>
+    <text x="215" y="78" text-anchor="middle" class="initial" font-size="20" fill="#fff">TS</text>
+    <text x="215" y="125" text-anchor="middle" class="label">TypeScript</text>
+
+    <circle cx="340" cy="70" r="35" fill="#0175C2"/>
+    <text x="340" y="78" text-anchor="middle" class="initial" font-size="22" fill="#fff">D</text>
+    <text x="340" y="125" text-anchor="middle" class="label">Dart</text>
+
+    <circle cx="465" cy="70" r="35" fill="#E34F26"/>
+    <text x="465" y="78" text-anchor="middle" class="initial" font-size="18" fill="#fff">HTML</text>
+    <text x="465" y="125" text-anchor="middle" class="label">HTML5</text>
+
+    <circle cx="590" cy="70" r="35" fill="#1572B6"/>
+    <text x="590" y="78" text-anchor="middle" class="initial" font-size="18" fill="#fff">CSS</text>
+    <text x="590" y="125" text-anchor="middle" class="label">CSS3</text>
+
+    <circle cx="715" cy="70" r="35" fill="#61DAFB"/>
+    <text x="715" y="78" text-anchor="middle" class="initial" font-size="22" fill="#000">⚛</text>
+    <text x="715" y="125" text-anchor="middle" class="label">React</text>
+
+    <circle cx="840" cy="70" r="35" fill="#000000"/>
+    <text x="840" y="78" text-anchor="middle" class="initial" font-size="22" fill="#fff">N</text>
+    <text x="840" y="125" text-anchor="middle" class="label">Next.js</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g>
+    <circle cx="90" cy="220" r="35" fill="#06B6D4"/>
+    <text x="90" y="228" text-anchor="middle" class="initial" font-size="18" fill="#fff">TW</text>
+    <text x="90" y="275" text-anchor="middle" class="label">Tailwind</text>
+
+    <circle cx="215" cy="220" r="35" fill="#02569B"/>
+    <text x="215" y="228" text-anchor="middle" class="initial" font-size="22" fill="#fff">F</text>
+    <text x="215" y="275" text-anchor="middle" class="label">Flutter</text>
+
+    <circle cx="340" cy="220" r="35" fill="#339933"/>
+    <text x="340" y="228" text-anchor="middle" class="initial" font-size="22" fill="#fff">N</text>
+    <text x="340" y="275" text-anchor="middle" class="label">Node.js</text>
+
+    <circle cx="465" cy="220" r="35" fill="#3ECF8E"/>
+    <text x="465" y="228" text-anchor="middle" class="initial" font-size="22" fill="#000">S</text>
+    <text x="465" y="275" text-anchor="middle" class="label">Supabase</text>
+
+    <circle cx="590" cy="220" r="35" fill="#4169E1"/>
+    <text x="590" y="228" text-anchor="middle" class="initial" font-size="18" fill="#fff">Pg</text>
+    <text x="590" y="275" text-anchor="middle" class="label">PostgreSQL</text>
+
+    <circle cx="715" cy="220" r="35" fill="#FFD21E"/>
+    <text x="715" y="228" text-anchor="middle" class="initial" font-size="16" fill="#000">HF</text>
+    <text x="715" y="275" text-anchor="middle" class="label">Hugging Face</text>
+
+    <circle cx="840" cy="220" r="35" fill="#412991"/>
+    <text x="840" y="228" text-anchor="middle" class="initial" font-size="18" fill="#fff">AI</text>
+    <text x="840" y="275" text-anchor="middle" class="label">OpenAI</text>
+  </g>
+
+  <!-- Row 3 -->
+  <g>
+    <circle cx="200" cy="370" r="35" fill="#0668E1"/>
+    <text x="200" y="378" text-anchor="middle" class="initial" font-size="22" fill="#fff">M</text>
+    <text x="200" y="425" text-anchor="middle" class="label">Meta AI</text>
+
+    <circle cx="325" cy="370" r="35" fill="#000000"/>
+    <text x="325" y="378" text-anchor="middle" class="initial" font-size="20" fill="#fff">▲</text>
+    <text x="325" y="425" text-anchor="middle" class="label">Vercel</text>
+
+    <circle cx="450" cy="370" r="35" fill="#2088FF"/>
+    <text x="450" y="378" text-anchor="middle" class="initial" font-size="16" fill="#fff">GA</text>
+    <text x="450" y="425" text-anchor="middle" class="label">GitHub Actions</text>
+
+    <circle cx="575" cy="370" r="35" fill="#F24E1E"/>
+    <text x="575" y="378" text-anchor="middle" class="initial" font-size="18" fill="#fff">Fg</text>
+    <text x="575" y="425" text-anchor="middle" class="label">Figma</text>
+
+    <circle cx="700" cy="370" r="35" fill="#00C4CC"/>
+    <text x="700" y="378" text-anchor="middle" class="initial" font-size="18" fill="#fff">Cv</text>
+    <text x="700" y="425" text-anchor="middle" class="label">Canva</text>
+  </g>
+</svg>
